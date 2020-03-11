@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 50%;
+margin: auto;
+ background: lightblue;
+}
+
+
+header {
+    border-bottom: 2px solid black;
+}
+
+header img {
+    width: 100px;
+vertical-align: middle;
+}
+
+
+header h1 {
+    display: inline-block;
+}
+
+
+main {margin-top: 30px;}
+
+
+#numero {
+    background-color: orange;
